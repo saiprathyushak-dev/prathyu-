@@ -1,0 +1,1 @@
+Echo "system date & Time"%date[D[D[D[D[D %[C[C[C[C[D[D[Ddate[D[D[D[[3~[[C[C[C[C[C% [D[D[D[D[3~[3~[3~[3~[3~[3~[3~[3~[3~[[C[C[CEcho ""[Dsystem date & time[C[C[B[3~" %date% %time%
